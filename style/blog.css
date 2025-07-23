@@ -9,3 +9,6 @@ ul{
     padding: 0;
     color: darkred;
 }
+li{
+    text-transform: bold;
+}
